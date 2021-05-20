@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/example.dir/example.c.o  -o example -rdynamic /usr/local/lib/i386-linux-gnu/libansilove.so -lmagic -Wl,-rpath,/usr/local/lib/i386-linux-gnu 

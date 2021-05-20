@@ -1,0 +1,1 @@
+/usr/bin/cc   -D_FILE_OFFSET_BITS=64    CMakeFiles/file_system.dir/file_system.c.o  -o file_system -rdynamic /usr/local/lib/i386-linux-gnu/libansilove.so -lmagic -lfuse -Wl,-rpath,/usr/local/lib/i386-linux-gnu 

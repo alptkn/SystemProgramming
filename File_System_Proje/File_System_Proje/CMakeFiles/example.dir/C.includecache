@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alpay/Desktop/ansilove/libansilove-master/example/example.c
+ansilove.h
+-
+stdio.h
+-
+magic.h
+-
+
+/usr/local/include/ansilove.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
